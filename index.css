@@ -35,6 +35,10 @@ body {
   background: #3B5998;
   color: white;
 }
+.fa-github:hover {
+    background: #3B5998;
+    color: white;
+}
 
 .fa-twitter:hover {
   background: #55ACEE;
@@ -65,11 +69,11 @@ body {
     overflow: hidden;
     outline:none;
 } */
-.icons{
+/* .icons{
     position: fixed;
     top: 86%;
     left: 37%;
-}
+} */
 h1{
     padding-top: 50px;
 
