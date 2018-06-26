@@ -246,3 +246,10 @@ body {
   -webkit-animation-name: pulse;
   animation-name: pulse;
 }
+
+@media (max-width: 480px){
+    .fa {
+        font-size: 30px;
+        width: 25px;
+    }
+}
